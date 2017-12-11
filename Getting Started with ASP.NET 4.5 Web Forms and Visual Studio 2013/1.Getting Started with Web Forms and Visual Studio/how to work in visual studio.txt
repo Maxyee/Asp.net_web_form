@@ -1,0 +1,39 @@
+Into this section there is a description about how to open a project in Visual Studio.
+There is a bref description about a project called "Wingtip Toys".
+
+Here is some application feature and senarios and task which is described into this section.
+
+Application Features
+The ASP.NET Web Form features presented in this series include:
+
+	2.The Web Application Project (not Web Site Project)
+	3.Web Forms
+	4.Master Pages, Configuration
+	5.Bootstrap
+	6.Entity Framework Code First, LocalDB
+	7.Request Validation
+	8.Strongly Typed Data Controls, Model Binding, Data Annotations, and Value Providers
+	9.SSL and OAuth
+	10.ASP.NET Identity, Configuration, and Authorization
+	11.Unobtrusive Validation
+	12.Routing
+	13.ASP.NET Error Handling
+
+Application Scenarios and Tasks
+Tasks demonstrated in this series include:
+
+	1.Creating, reviewing and running the new project
+	2.Creating the database structure
+	3.Initializing and seeding the database
+	4.Customizing the UI using styles, graphics and a master page
+	5.Adding pages and navigation
+	6.Displaying menu details and product data
+	7.Creating a shopping cart
+	8.Adding SSL and OAuth support
+	9.Adding a payment method
+	10.Including an administrator role and a user to the application
+	11.Restricting access to specific pages and folder
+	12.Uploading a file to the web application
+	13.Implementing input validation
+	14.Registering routes for the web application
+	15.Implementing error handling and error logging
